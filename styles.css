@@ -21,7 +21,7 @@ body{
 
 #cabecalho{
 height: 50px;
-background-color: rgba(86, 178, 239, 0.789);
+background-color: rgba(56, 80, 233, 0.789);
 width: 95%;
 margin: 0 auto;
 text-align: center;
@@ -90,7 +90,7 @@ text-align: center;
 #rodape{
     height: 375px;
     /*width 300px;*/
-    background-color: rgba(86, 178, 239, 0.789);
+    background-color: rgba(56, 80, 233, 0.789);
     clear: both;
     width: 95%;
     margin: 0 auto;
